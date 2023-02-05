@@ -87,6 +87,7 @@ body {
 }
 .header .logo {
     width: 60px;
+    cursor: pointer;
 }
 .header .links {
     position: relative;
